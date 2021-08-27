@@ -103,8 +103,8 @@ analytics:
 author:
   name             : "Paul Corlies"
   avatar           :  "/assets/images/headshot.png"
-  bio              :  "Postdoctoral Associate >
-                       Department of Earth, Atmospheric, and Planetary Sciences >
+  bio              :  "Postdoctoral Associate <br>
+                       Department of Earth, Atmospheric, and Planetary Sciences <br>
                        Massachusetts Institute of Technology"
   location         : "Boston, MA"
   email            : "pcorlies@mit.edu"
