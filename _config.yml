@@ -106,8 +106,11 @@ author:
   bio              :  "Postdoctoral Associate <br>
                        EAPS, MIT"
   location         : "Boston, MA"
-  email            : "pcorlies@mit.edu"
+  email            :
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:pcorlies@mit.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/pcorlies"
