@@ -102,8 +102,8 @@ analytics:
 # Site Author
 author:
   name             : "Paul Corlies"
-  avatar           :  "/assets/images/headshots.jpg"
-  bio              : "I am an **amazing** person."
+  avatar           :  "/assets/images/headshot.png"
+  bio              :
   location         : "Boston, MA"
   email            : "pcorlies@mit.edu"
   links:
