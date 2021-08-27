@@ -101,26 +101,30 @@ analytics:
 
 # Site Author
 author:
-  name   : "Nicholas F Cothard"
-  avatar : "/assets/images/headshot_circle.png"
-  bio    : "NASA Space Technology Research Fellow. PhD Candidate at Cornell. mm/sub-mm wave detectors and optics for ground-based cosmology and astrophysics observatories."
-  location : "Ithaca, NY"
+  name             : "Your Name"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am an **amazing** person."
+  location         : "Somewhere"
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:nc467@cornell.edu"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/ncothard"
-    - label: "Google Scholar"
-      icon: "fas fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=J4nzbLUAAAAJ&hl=en"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/nicholas-cothard-6686ab1b6/"
+      url: "pcorlies@mit.edu"
+    #- label: "Website"
+      #icon: "fas fa-fw fa-link"
+      # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/NickFCothard"
+      url: "https://twitter.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
