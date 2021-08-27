@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Paul Corlies"
-  avatar           : "/assets/images/headshot.jpg"
+  avatar           : "/assets/images/headshot.png"
   bio              : "Bio here"
   location         : "Boston, MA"
   email            : pcorlies@mit.edu
