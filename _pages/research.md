@@ -2,5 +2,5 @@
 title: 'Research'
 layout: single
 permalink: /research/
-author_profile: false
+author_profile: true
 ---
